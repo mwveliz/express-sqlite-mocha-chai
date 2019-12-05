@@ -3,7 +3,7 @@
 > POC: Nodejs - Express REST API with sqlite3 database and tests with mocha and chai
 
 This POC has two endpoints that are called from the frontend react project
-located at //TODO
+located at https://github.com/mwveliz/react-client-user
 
 ## Usage
 
@@ -43,8 +43,8 @@ mwveliz@gmail.com
 
 ## See Also
 
-Frontend repo: //TODO
+Frontend repo: https://github.com/mwveliz/react-client-user
 ## License
 
-GPL
+GPL V-3.0
 
